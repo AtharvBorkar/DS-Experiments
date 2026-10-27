@@ -199,10 +199,6 @@ Each Python file contains its own demonstration cases and can be run directly. T
 - `E7DFSBFS.py` executes its traversal demo when imported as well as when run directly; the other experiment demos are protected by `if __name__ == "__main__":`.
 - No license file is currently included. Add a license before publishing if you want to define reuse terms.
 
-## GitHub repository description
-
-**Data Structures & Algorithms experiments in Python: searching, sorting, stacks, queues, hash tables, DFS, and BFS.**
-
 ## Suggested GitHub topics
 
 `python` `data-structures` `algorithms` `searching` `sorting` `hash-table` `stack` `queue` `graph-algorithms` `dfs` `bfs` `computer-science`
